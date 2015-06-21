@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">VideoList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_key">AIzaSyByWn-AM6cGNtU6FBwNfheUiVTyytJojQk</string>
+    <string name="Vsauce_id">UC-9-kyTW8ZkZNDHQJ6FgpwQ</string>
+    <string-array name="channels">
+        <item>Vsauce</item>
+        <item>Motherboard</item>
+        <item>Naked Science</item>
+        <item>Big Think</item>
+        <item>SmarterEveryDay</item>
+        <item>It\'s Okay To Be Smart</item>
+        <item>Gross Science</item>
+        <item>Life Noggin\'</item>
+        <item>Mental floss</item>
+    </string-array>
+    <string-array name="videos">
+        <item>Video A</item>
+        <item>Video B</item>
+        <item>Video C</item>
+        <item>Video D</item>
+        <item>Video E</item>
+        <item>Video F</item>
+        <item>Video G</item>
+        <item>Video H</item>
+        <item>Video I</item>
+        <item>Video J</item>
+        <item>Video K</item>
+        <item>Video L</item>
+    </string-array>
+
+</resources>
